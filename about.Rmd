@@ -10,6 +10,6 @@ output:
 
 This page is about how easy it is to make websites.
 
-It was written by Jeff Goldsmith. 
+It was written by Madeline Sharp. 
 
 To go home, click [here](index.html).
